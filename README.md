@@ -1,4 +1,4 @@
-# Criando uma poesia com I.A
+# Criando uma poesia com IA
 
 ## 📒 Descrição
 Pedi para o ChatGPT escrever uma poesia como se fosse uma adolescente passando por um momento difícil.
